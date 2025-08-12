@@ -12,6 +12,7 @@ const About = () => {
       scrollTrigger:{
         trigger: "#about",
         start: "top center",
+        end: "center 30%",
         scrub:4,
       }
     });
